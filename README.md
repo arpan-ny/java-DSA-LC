@@ -1,2 +1,8 @@
 # java-DSA-LC
-This is the first commit to this repo
+Hi My name is Arpan
+contact - nyati.arpan@gmail.com
+This repo is all about learning and solving problems related to DSA using Java.
+Objectives-
+Practicing programming
+Learning Java language
+Improving programming logic
