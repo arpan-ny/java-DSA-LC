@@ -9,6 +9,5 @@ public class FibonacciExample1{
       n1 = n2;
       n2 = n3;
     }
-
   }
 }
