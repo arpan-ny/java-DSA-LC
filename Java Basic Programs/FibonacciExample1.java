@@ -1,6 +1,7 @@
+// A simple profram to print Fibonacci series
 public class FibonacciExample1{
   public static void main(String args[]) {
-    int n1 = 0, n2 = 1,n3, i , count = 10;
+    int n1 = 0, n2 = 1,n3, i , count = 10; // initialising variables and their values
     System.out.print(n1+" "+n2); // printing 0 and 1
     for(i = 2;i<count;++i) {
       n3 = n1 + n2;
